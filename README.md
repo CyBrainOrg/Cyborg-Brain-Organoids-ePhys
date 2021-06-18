@@ -8,4 +8,4 @@ Figure 4 shows the explained variance of each PC;
 Figure 5 shows the waveforms detected in the PC1 - PC2 space after clustering;
 Figure 6 shows, for each cluster (left column is cluster 1), from top to bottom, all the waveforms, the average waveform, and the average waveform +/- 1 S.D.;
 Figure 7 shows the colored raster plot accordingly to the clustering results;
-Figure 8 shows (top line) the inverted average waveform for each cluster and the local maximum and corresponding FWHM. Bottom line shows Interspike Invertals histogram for each cluster;
+Figure 8 shows (top line) the inverted average waveform for each cluster and the local maximum and corresponding FWHM. Bottom line shows Interspike Intervals histogram for each cluster;
